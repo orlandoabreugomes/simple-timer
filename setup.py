@@ -14,7 +14,7 @@ setup(
     description="A simple timer to measure task durations.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/orlandoabreugomes/simple-timer"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.6',
